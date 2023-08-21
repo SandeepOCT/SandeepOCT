@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandeepOCT
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Scala
 - 📫 How to reach me [mailto:konda.sandeep@octanner.com]Email
   
 
